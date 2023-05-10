@@ -1,0 +1,43 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+body {
+    background-color: black;
+  }
+  h1, h2, h3 {
+    color: #ffffff;
+  }
+  
+  p {
+    color: #ffffff;
+  }
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 2em;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+  }
+  
+  h3 {
+    font-size: 1.2em;
+  }
+
+  a {
+    color: #ffffff;
+  }
+  
+  a:hover {
+    color: #ffffff;
+  }
+  
+ .about_me {
+  text-align: center;
+ }
